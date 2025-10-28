@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Testing out the Jekkyll Theme on Github Pages
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -56,11 +56,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Chris Sostad"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "GIS-er"
   links:
-    - label: "Website"
+    - label: "www.chrissostad.com"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
